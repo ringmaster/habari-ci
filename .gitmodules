@@ -4,3 +4,6 @@
 [submodule "doc"]
 	path = doc
 	url = https://github.com/habari/doc.git
+[submodule "user/plugins/tests"]
+	path = user/plugins/tests
+	url = https://github.com/habari/tests.git
